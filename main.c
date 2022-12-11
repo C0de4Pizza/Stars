@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 #include <stdlib.h>
 #include "console.h"
 
@@ -29,12 +28,8 @@ int main() {
             system("cls");
             break;
         case 110:
-
             //printf("ok dann bleib allein in der Console");
             break;
     }
-
-
-
     return 0;
 }
